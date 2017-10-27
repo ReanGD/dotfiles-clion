@@ -17,9 +17,19 @@
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
   <action id="GotoSuperMethod" />
+  <action id="Run" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="Stop" />
   <action id="ToggleBookmark">
