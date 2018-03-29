@@ -50,6 +50,9 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ScopeView.EditScopes">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f2" />
