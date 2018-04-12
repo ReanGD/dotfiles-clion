@@ -43,6 +43,9 @@
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
   <action id="GotoSuperMethod" />
+  <action id="Macro.std">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
