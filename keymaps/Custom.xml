@@ -44,10 +44,13 @@
   <action id="Macro.std">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
+  <action id="MethodHierarchy" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
-  <action id="ReplaceInPath" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
