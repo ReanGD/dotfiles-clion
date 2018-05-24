@@ -29,6 +29,9 @@
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
   <action id="ExpressionTypeInfo" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
