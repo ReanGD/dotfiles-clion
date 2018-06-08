@@ -14,7 +14,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+Q'</ShortCut>
           <Description>Close Others</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse">
@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Favorites</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
