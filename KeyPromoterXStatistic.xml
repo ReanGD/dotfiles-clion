@@ -121,6 +121,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Exclude</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Favorites">
         <Item>
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
@@ -217,6 +225,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recent Find Usages">
+        <Item>
+          <IdeaActionID>UsageView.ShowRecentFindUsages</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+T'</ShortCut>
+          <Description>Recent Find Usages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Remove">
         <Item>
           <IdeaActionID>UsageView.Remove</IdeaActionID>
@@ -238,6 +254,14 @@
           <IdeaActionID>Replace</IdeaActionID>
           <ShortCut>'Ctrl+H'</ShortCut>
           <Description>Replace...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun">
+        <Item>
+          <IdeaActionID>UsageView.Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
