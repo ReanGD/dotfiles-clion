@@ -326,7 +326,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+R'</ShortCut>
           <Description>Run 'test_iqbus (one)'</Description>
-          <Count>541</Count>
+          <Count>544</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test_iqbus'">
