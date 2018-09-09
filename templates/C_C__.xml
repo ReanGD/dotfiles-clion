@@ -1,0 +1,7 @@
+<templateSet group="C/C++">
+  <template name="join" value="boost::algorithm::join(, &quot;,&quot;)" description="boost::join" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>
