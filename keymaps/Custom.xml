@@ -28,6 +28,7 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorToggleCase" />
+  <action id="ExportToTextFile" />
   <action id="ExpressionTypeInfo" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt m" />
@@ -47,6 +48,10 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
+  <action id="GotoRelated">
+    <keyboard-shortcut first-keystroke="ctrl alt home" />
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="GotoSuperMethod" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
