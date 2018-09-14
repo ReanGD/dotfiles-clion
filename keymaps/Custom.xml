@@ -5,6 +5,9 @@
   <action id="ActivateMessagesToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="Build">
     <keyboard-shortcut first-keystroke="ctrl b" />
