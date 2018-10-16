@@ -17,6 +17,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close">
+        <Item>
+          <IdeaActionID>CloseContent</IdeaActionID>
+          <ShortCut>'Ctrl+W'</ShortCut>
+          <Description>Close</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close Others">
         <Item>
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
