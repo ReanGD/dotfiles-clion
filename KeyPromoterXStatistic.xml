@@ -350,7 +350,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+R'</ShortCut>
           <Description>Run 'iqbus'</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test_iqbus (one) (1)'">
@@ -382,7 +382,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+R'</ShortCut>
           <Description>Run 'test_iqbus'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test_iqlib (one)'">
