@@ -30,7 +30,7 @@
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <ShortCut>'Alt+Shift+Q'</ShortCut>
           <Description>Close Others</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse">
@@ -206,7 +206,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Generate...</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -287,6 +287,14 @@
           <ShortCut>'Ctrl+Shift+T'</ShortCut>
           <Description>Recent Find Usages</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'ServicesStorage.cpp'">
+        <Item>
+          <IdeaActionID>CMake.CompileCurrentFile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'ServicesStorage.cpp'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
