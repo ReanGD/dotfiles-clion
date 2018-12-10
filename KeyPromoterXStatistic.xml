@@ -409,12 +409,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'test_iqlib'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Run 'test_iqlib'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
