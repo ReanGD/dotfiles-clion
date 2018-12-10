@@ -121,6 +121,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'test_iqlib'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'test_iqlib'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -414,7 +422,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+R'</ShortCut>
           <Description>Run 'test_iqlib'</Description>
-          <Count>6</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -462,7 +470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>85</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
