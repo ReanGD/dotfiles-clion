@@ -414,7 +414,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+R'</ShortCut>
           <Description>Run 'test_iqlib'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
