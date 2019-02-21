@@ -409,6 +409,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'test_iqbus (one) (multy)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Run 'test_iqbus (one) (multy)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'test_iqbus (one)'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
