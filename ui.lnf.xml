@@ -2,10 +2,4 @@
   <component name="DependencyUISettings">
     <option name="UI_FILTER_LEGALS" value="true" />
   </component>
-  <component name="UISettings">
-    <option name="EDITOR_AA_TYPE" value="Greyscale" />
-    <option name="FONT_SCALE" value="1.25" />
-    <option name="IDE_AA_TYPE" value="Greyscale" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-  </component>
 </application>

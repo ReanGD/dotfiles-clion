@@ -1,7 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="std">
-      <typing text-keycode="83:0;84:0;68:0;59:1;59:1">std::</typing>
-    </macro>
-  </component>
-</application>
